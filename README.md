@@ -299,6 +299,12 @@ NetworkSniffer/
 
 ---
 
+## Contribution
+
+Contributions and improvements are welcome. Please create a separate branch and submit a pull request for review.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
