@@ -299,7 +299,11 @@ NetworkSniffer/
 
 ---
 
+## Contribution
 
+Contributions and improvements are welcome. Please create a separate branch and submit a pull request for review.
+
+---
 
 ## 📄 License
 
